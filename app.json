@@ -8,5 +8,11 @@
     "assetBundlePatterns": [
       "**/*"
     ]
-  }
+  },
+  "android": {
+    "package": "com.codingmechanic.mapcuny",
+    "config": {
+       "googleMaps": { "apiKey": "AIzaSyCKPxb0RlAptHQKGJzYRHMoM-OAEmH1HAs" }   
+    }
+ }
 }
